@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285795496408'] 
+global.owner = ['6287711299742'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Quinsha JB'
-global.numberowner = '6285795496408'
+global.numberowner = '6287711299742'
 global.instagram = 'https://instagram.com/njasvvip'
 global.github = 'https://github.com/'
 global.dana = '.owner'
@@ -14,8 +14,8 @@ global.gopay = '.owner'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/KCiTOSQTnkZDDgzNGl5oQe'
-global.web = 'https://wa.me/6285795496408' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://instagram.com/njasvvip'
+global.web = 'https://wa.me/6287711299742' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
